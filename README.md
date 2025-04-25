@@ -22,6 +22,6 @@
 - **YOLOv5 Official Repository:** [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)  
 - **YOLOv5 Documentation:** [https://docs.ultralytics.com](https://docs.ultralytics.com)  
 - **YOLOv5 Custom Training Tutorial:** [https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data](https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data)  
-- **YOLOv5 Model Zoo:** [https://github.com/ultralytics/yolov5/releases](https://github.com/ultralytics/yolov5/releases)
+- **YOLOv5 Model:** [https://github.com/ultralytics/yolov5/releases](https://github.com/ultralytics/yolov5/releases)
 - **Dataset Link:** [https://drive.google.com/drive/folders/10D14kAtsKfNXgw9MKZkWHHh00b9ZXJww](https://drive.google.com/drive/folders/10D14kAtsKfNXgw9MKZkWHHh00b9ZXJww)
 - **Working Video:**[https://drive.google.com/drive/folders/1jVKf_wFhKkhnTlHXdAvwEhqjxKM7yl4P?usp=drive_link](https://drive.google.com/drive/folders/1jVKf_wFhKkhnTlHXdAvwEhqjxKM7yl4P?usp=drive_link)
