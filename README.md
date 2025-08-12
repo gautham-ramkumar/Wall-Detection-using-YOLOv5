@@ -23,5 +23,4 @@
 - **YOLOv5 Documentation:** [https://docs.ultralytics.com](https://docs.ultralytics.com)  
 - **YOLOv5 Custom Training Tutorial:** [https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data](https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data)  
 - **YOLOv5 Model:** [https://github.com/ultralytics/yolov5/releases](https://github.com/ultralytics/yolov5/releases)
-- **Dataset Link:** [https://drive.google.com/drive/folders/10D14kAtsKfNXgw9MKZkWHHh00b9ZXJww](https://drive.google.com/drive/folders/10D14kAtsKfNXgw9MKZkWHHh00b9ZXJww)
-- **Working Video:**[https://drive.google.com/drive/folders/1jVKf_wFhKkhnTlHXdAvwEhqjxKM7yl4P?usp=drive_link](https://drive.google.com/drive/folders/1jVKf_wFhKkhnTlHXdAvwEhqjxKM7yl4P?usp=drive_link)
+- **One Drive Link:** [https://northeastern-my.sharepoint.com/:f:/r/personal/ramkumar_g_northeastern_edu/Documents/Computer%20Vision%20-%20YOLOv5?csf=1&web=1&e=jWeyRX]
